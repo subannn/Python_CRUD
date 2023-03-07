@@ -1,10 +1,4 @@
-"""  
-CRUD
-Create
-Read - Retrieve
-Update
-Delete
-"""
+
 
 # a = {'id': 36262,'title': 'Платье', 'price': 2000, 'description': 'красивое платье', 'created_at': '23.08.22'}
 # print(a)

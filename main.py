@@ -1,9 +1,6 @@
 
 
 # a = {'id': 36262,'title': 'Платье', 'price': 2000, 'description': 'красивое платье', 'created_at': '23.08.22'}
-# print(a)
-# a['title'] = 'велосипед'
-# del a
 
 import shelve
 from datetime import datetime
